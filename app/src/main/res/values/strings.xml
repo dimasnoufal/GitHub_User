@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="user">user</string>
+    <string name="poster">poster</string>
+    <string name="warning">Warning</string>
+    <string name="failed_to_fetch_data">Failed to fetch data.</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tabs">tabs</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Follower</string>
+    <string name="add_to_favorite">ADD TO FAVORITE!</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove_from_favorite">REMOVE FROM FAVORITE</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
