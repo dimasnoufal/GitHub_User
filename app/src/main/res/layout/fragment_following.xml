@@ -7,12 +7,14 @@
     tools:context=".ui.FollowingFragment">
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_user"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         tools:listitem="@layout/item_row_user" />
 
     <ProgressBar
+        android:id="@+id/progressBar"
         style="?android:attr/progressBarStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -20,6 +22,7 @@
         android:visibility="invisible" />
 
     <TextView
+        android:id="@+id/tv_error"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
